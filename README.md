@@ -9,7 +9,8 @@
 <h3 class="heading-element" dir="auto">🔧 Skills</h3>
 
 <p dir="auto">
-  ::marker <strong>Languages:</strong> JavaScript, Python, C#
+  - ⭐**Languages:** JavaScript, Python, C#
+  - ⭐**Frameworks & Libraries:** NextJS, React
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/181976119115776010)](https://discord.com/users/181976119115776010)
