@@ -1,6 +1,6 @@
 ### <h2 class="heading-element" dir="auto">Hello there 👋</h2>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fatihwrld)
-<h3 class="heading-element" dir="auto">About Me</h3>
+<h3 class="heading-element" dir="auto">🗒️ About Me</h3>
 
 <p dir="auto">
   💡 Interests: Programming, learning
