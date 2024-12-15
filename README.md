@@ -10,7 +10,7 @@
 
   - ⭐ <strong>Languages:</strong> JavaScript, Python, C#
   <br>
-  - ⭐ <strong>Frameworks & Libraries:</strong> NextJS, React
+  - ⭐ <strong>Languages:</strong> JavaScript, Python, C#
 
 <h3 class="heading-element" dir="auto">🌐 Featured Projects</h3>
 
