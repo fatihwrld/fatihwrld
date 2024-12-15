@@ -9,7 +9,6 @@
 <h3 class="heading-element" dir="auto">🔧 Skills</h3>
 
 - <strong>Languages:</strong> JavaScript, Python, C#
-<br>
 - <strong>Languages:</strong> JavaScript, Python, C#
 
 <h3 class="heading-element" dir="auto">🌐 Featured Projects</h3>
