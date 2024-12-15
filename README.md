@@ -8,10 +8,11 @@
 
 <h3 class="heading-element" dir="auto">🔧 Skills</h3>
 
-<p dir="auto">
-  ⭐ <strong>Languages:</strong> JavaScript, Python, C#
+  - ⭐ <strong>Languages:</strong> JavaScript, Python, C#
   <br>
-  ⭐ <strong>Frameworks & Libraries:</strong> NextJS, React
-</p>
+  - ⭐ <strong>Frameworks & Libraries:</strong> NextJS, React
+
+<h3 class="heading-element" dir="auto">🌐 Featured Projects</h3>
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/181976119115776010)](https://discord.com/users/181976119115776010)
