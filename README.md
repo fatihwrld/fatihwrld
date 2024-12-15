@@ -7,7 +7,8 @@
 
 <h3 class="heading-element" dir="auto">🌐 Featured Projects</h3>
 
-- <a href="https://devs.tr">Devs</a>: We produce projects that users love
+- [Devs](https://devs.tr/en): We produce projects that users love
+- [Pintere](https://devs.tr/en/projects/pintere): Cheap, Safe and Fast Shopping
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/181976119115776010)](https://discord.com/users/181976119115776010)
