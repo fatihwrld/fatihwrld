@@ -10,6 +10,7 @@
 
 <p dir="auto">
   - ⭐<strong>Languages:</strong> JavaScript, Python, C#
+  <br>
   - ⭐<strong>Frameworks & Libraries:</strong> NextJS, React
 </p>
 
