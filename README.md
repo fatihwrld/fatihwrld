@@ -3,7 +3,6 @@
   <img src="https://camo.githubusercontent.com/574b124a5e94236df5379f6f715a8d4fa216dbe3b7d47e4c09d5a0f7ba329d3b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d666174696877726c64" alt="Profile view counter on        GitHub" data-canonical-src="https://komarev.com/ghpvc/?username=fatihwrld" style="max-width: 100%;"></a>
 </p>
 
-<p align="center">
 ```python
 class DigitalIdentity:
     def __init__(self):
@@ -26,7 +25,6 @@ class DigitalIdentity:
 
     def __str__(self):
         return f"{self.name} | {self.origin} | Age: {self.age}"
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/181976119115776010">
