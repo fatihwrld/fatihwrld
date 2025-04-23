@@ -2,9 +2,9 @@
   <h2 dir="auto">Hello there 👋</h2>
 </p>
 
-<p align="center">
+
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fatihwrld)
-</p>
+
 
 <p align="center">
   <pre>
