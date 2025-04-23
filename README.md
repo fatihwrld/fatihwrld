@@ -14,7 +14,7 @@ class DigitalIdentity:
         self.tech_stack = {
             "main": ["Python", "JS/TS"],
             "tools": ["VS Code", "Vim", "Figma"],
-            "infra": ["Windows Terminal", "MongoDB"]  # Düzeltilen satır
+            "infra": ["Windows Terminal", "MongoDB"]
         }
 
         self.socials = {
