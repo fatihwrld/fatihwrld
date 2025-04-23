@@ -24,10 +24,10 @@ class DigitalIdentity:
         }
 
     def __str__(self):
-        return f"{self.name} | {self.origin} | Age: {self.age}"
+        return f"{self.name} | {self.origin} | Age: {self.age}"```
 
 <p align="center">
   <a href="https://discord.com/users/181976119115776010">
     <img src="https://lanyard.cnrad.dev/api/181976119115776010" alt="Discord Presence">
   </a>
-</p>```
+</p>
