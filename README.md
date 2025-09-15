@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+#### My GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fatihwrld&show_icons=true&locale=en&theme=radical" alt="fatihwrld" />
