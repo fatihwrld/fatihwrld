@@ -1,10 +1,32 @@
-<p align="center">
-  <a href="https://github.com/fatihwrld">
-  <img src="https://camo.githubusercontent.com/574b124a5e94236df5379f6f715a8d4fa216dbe3b7d47e4c09d5a0f7ba329d3b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d666174696877726c64" alt="Profile view counter on        GitHub" data-canonical-src="https://komarev.com/ghpvc/?username=fatihwrld" style="max-width: 100%;"></a>
+<h1>Hi 👋, I'm Fatih</h1>
+<h3>Focused on developing myself in the field of software.</h3>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=fatihwrld&label=Profile%20views&color=0e75b6&style=flat" alt="fatihwrld" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/181976119115776010">
-    <img src="https://lanyard.cnrad.dev/api/181976119115776010" alt="Discord Presence">
-  </a>
+---
+
+#### Languages
+<p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+#### Frameworks
+<p>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihwrld&show_icons=true&locale=en&theme=radical" alt="fatihwrld" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihwrld&show_icons=true&locale=en&layout=compact&theme=radical" alt="fatihwrld" />
 </p>
