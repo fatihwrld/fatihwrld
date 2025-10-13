@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=fatihwrld&label=Profile%20views&color=0e75b6&style=flat" alt="fatihwrld" />
 </p>
 
-<img src="https://media1.tenor.com/m/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="300" height="200" />
-
 ---
 
 #### Languages
