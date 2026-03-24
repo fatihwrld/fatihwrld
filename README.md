@@ -1,4 +1,3 @@
-<h1>Hi 👋, I'm Fatih</h1>
 <h3>Focused on developing myself in the field of software.</h3>
 
 <p>
